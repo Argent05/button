@@ -1,3 +1,6 @@
+boolean mouseReleased;
+boolean wasPressed;
+
 void setup(){
  size(800,800);
   
